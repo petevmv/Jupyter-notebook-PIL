@@ -1,0 +1,2 @@
+# How does it work? 
+## it opens zip files with images, process them using pytesseract engine to find text on the given image( in this case the images are newspapers pages ), prompts the user for input and search the image for that input, if the user input is found then it displays all the faces represented on the page where user input text is found using the OpenCV engine faceclisifier to detect faces.
